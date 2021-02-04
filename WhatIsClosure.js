@@ -21,4 +21,4 @@ console.log(close2());
 console.log(close2());
 
 
-Jemon eikane ekta function er bitor arekta function ache jar fhole eita close environment toiri kore. tarpor se jokon bitore return ba call kore bairer kawke acces kore/ korte pare tokon se jodi setake use kore tokon sei function ta nijosso ekta value rakbe jeno tara nijosso ekta close environment toiri kore felche.
+Jemon eikane ekta function er bitor arekta function ache jar fhole eita close environment toiri kore. tarpor se jokon bitore return ba call kore bairer kawke acces kore/korte pare tokon se jodi setake use kore tokon sei function ta nijosso ekta value rakbe jeno tara nijosso ekta close environment toiri kore felche.
